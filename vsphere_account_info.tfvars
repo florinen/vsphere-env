@@ -1,3 +1,4 @@
-address = "consul.omegnet.com"
-scheme  = "http"
+backend   = "consul"
+address   = "consul.omegnet.com"
+scheme    = "http"
  
