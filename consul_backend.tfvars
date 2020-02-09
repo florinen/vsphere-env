@@ -1,5 +1,4 @@
 backend   = "consul"
-#address   = "consul.varu.local"
-address   = "consul.omegnet.com"
+address   = "consul.varu.local"
 scheme    = "http"
  
